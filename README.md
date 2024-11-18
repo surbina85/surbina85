@@ -5,6 +5,11 @@ Hi! I'm Sergio, a Junior Data Analyst who previously spent many years working as
 ### 📊🗂️ Projects
 [Here](https://github.com/surbina85/surbina85/blob/main/projects.md), you’ll find a collection of my work, showcasing projects that highlight my skills in data analysis and visualization.
 
+You can also see my portfolio on these platforms:
+
+- [Tableau](https://public.tableau.com/app/profile/sergio.urbina5986/vizzes)
+- [Maven Analytics](https://mavenanalytics.io/profile/Sergio-Urbina/198519495)
+
 Feel free to explore and reach out if you have any questions or collaboration ideas!
 
 ### 🛠️ Tools 
